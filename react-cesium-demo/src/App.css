@@ -1,0 +1,11 @@
+@import '~antd/dist/antd.css';
+.singlebutton
+{
+  position: absolute;
+  width: 100px;
+  height: 30px;
+  z-index: 1999;
+  left: 100px;
+  top: 100px;
+}
+
